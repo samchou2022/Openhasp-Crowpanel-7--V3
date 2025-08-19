@@ -1,0 +1,10 @@
+{"page":1,"id":10,"w":240,"obj":"label","text":"%hostname%"}
+{"comment":"Designer Config","plate":{"w":800,"h":480,"size_name":"7inch_landscape","primary_color":"#42a5f6ff","secondary_color":"#fb8c00ff","theme":"materialdark"}}
+{"page":1,"comment":"Page 6","bg_color02":"#008781","border_color02":"#00e6de"}
+{"id":4,"obj":"gauge","x":580,"y":20,"w":200,"h":200}
+{"id":3,"obj":"gauge","x":360,"y":20,"w":200,"h":200}
+{"id":1,"obj":"led","comment":"Led moteur","x":20,"y":20,"w":51,"h":55,"bg_color02":"#ffeb3c","border_color02":"#a2d7ac","bg_color05":"#a9a9a9","bg_color":"#eb1d4e","border_color":"#ffab91","border_width":9,"action":{"changed":"statusupdate"},"groupid":1}
+{"id":5,"obj":"btn","x":40,"y":340,"w":100,"h":40}
+{"id":6,"obj":"switch","x":160,"y":340,"w":80,"h":40,"radius10":20,"radius20":20,"pad_top20":0,"pad_right20":0,"pad_left20":0,"pad_bottom20":0}
+{"id":7,"obj":"btnmatrix","x":580,"y":260,"w":200,"h":200,"options":["1","2","3","\n","4","5","6","\n","7","8","9","\n","*","0","."]}
+{"id":2,"obj":"gauge","x":140,"y":20,"w":200,"h":200,"line_count":23,"label_count":11,"scale_width":11,"line_color":"#353535","bg_color":"#d6d6d6","border_color":"#ff8a66","border_width":2,"critical_value":2,"max":280,"text_font":16,"text_color":"#f1627e","value_color":"#9c28b1","scale_grad_color":"#001429","scale_end_color":"#001429"}
